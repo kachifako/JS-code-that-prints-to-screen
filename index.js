@@ -5,8 +5,8 @@ let aboutMe = {
     country: "Nigeria"
 }
 
-document.getElementById("stats").innerHTML = "Name: " + aboutMe.name + ", " + "Height: " + aboutMe.height + ", " + "Country: " + aboutMe.country
+document.getElementById("stats").innerHTML = "Name: "  + aboutMe.name + "<br>" + "Height: "  + aboutMe.height + "<br>"  + "Country: " + aboutMe.country
 
-alert('Name: '  + aboutMe.name + ", " + 'Height: '  + aboutMe.height + ", " + 'Country: ' + aboutMe.country)
+alert("Name: "  + aboutMe.name +  "\n" + "Height: "  + aboutMe.height + "\n"  + "Country: " + aboutMe.country)
 
 console.log(aboutMe)

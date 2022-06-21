@@ -1,0 +1,13 @@
+
+
+div{
+    
+    padding: 5%;
+    margin: 20%;
+    text-align: center;
+    line-height: 25px;
+    font-size: 19px	;
+    text-shadow: 1px 0.5px rgb(95, 95, 111);
+    border: 5px dashed rgb(64, 64, 104);
+    border-radius: 20% 0%;
+}
